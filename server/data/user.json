@@ -1,0 +1,29 @@
+{
+    "list": [
+        {
+            "tele": "13546225412",
+            "password": "asdfg",
+            "authorization": "master"
+        },
+        {
+            "tele": "13653664142",
+            "password": "sdsdsd",
+            "authorization": "master"
+        },
+        {
+            "tele": "18801135224",
+            "password": "asdasd",
+            "authorization": "visitor"
+        },
+        {
+            "tele": "14323423453",
+            "password": "323232",
+            "authorization": "visitor"
+        },
+        {
+            "tele": "13423423423",
+            "password": "qwqwqw",
+            "authorization": "visitor"
+        }
+    ]
+}

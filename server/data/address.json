@@ -1,0 +1,34 @@
+{
+    "list": [
+        {
+            "username": "三大",
+            "telephone": "15698742365",
+            "province": "安徽省",
+            "city": "安庆市",
+            "area": "怀宁县",
+            "addressInfo": "硕大的",
+            "address": "安徽省安庆市怀宁县硕大的",
+            "id": 4
+        },
+        {
+            "username": "784512",
+            "telephone": "13867897654",
+            "province": "黑龙江省",
+            "city": "七台河市",
+            "area": "新兴区",
+            "addressInfo": "的方式粉丝顿饭",
+            "address": "黑龙江省七台河市新兴区的方式粉丝顿饭",
+            "id": 17
+        },
+        {
+            "username": "75455",
+            "telephone": "13867897654",
+            "province": "黑龙江省",
+            "city": "七台河市",
+            "area": "新兴区",
+            "addressInfo": "的方式粉丝顿饭",
+            "address": "黑龙江省七台河市新兴区的方式粉丝顿饭",
+            "id": 18
+        }
+    ]
+}
